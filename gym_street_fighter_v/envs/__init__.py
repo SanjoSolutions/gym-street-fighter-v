@@ -1,0 +1,1 @@
+from gym_street_fighter_v.envs.street_fighter_v_env import StreetFighterVEnv
